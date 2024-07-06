@@ -12,4 +12,4 @@
 
 5. **Sécurité et conformité** : Vous etes seul.e responsable d'assurer la sécurité de l'utilisation de ces scripts et de se conformer à toutes les lois, réglementations et politiques applicables lors de leur utilisation.
 
-### En utilisant ces scripts, Vous reconnaîssez avoir lu, compris et accepté les conditions ci-dessus. Si ces conditions ne sont pas acceptables, n'utiliser pas ces scripts.
+### En utilisant ces scripts, Vous reconnaîssez avoir lu, compris.e.s et accepté les conditions ci-dessus. Si ces conditions ne sont pas acceptables, n'utiliser pas ces scripts.
